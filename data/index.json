@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-30",
+    "number": 104,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Major crypto security breaches and central bank moves dominate while fintech firms push forward with agentic AI and cross-border platforms.",
+    "thumbnail": "",
+    "companiesCount": 25,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$1.2B"
+  },
+  {
     "date": "2026-10-25",
     "number": 104,
     "status": "published",
