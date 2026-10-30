@@ -1,0 +1,50 @@
+[
+  {
+    "term": "Agentic AI",
+    "definition": "Autonomous software systems capable of breaking high-level goals into multi-step actions and executing them with tool use.",
+    "sector": "ai_software",
+    "firstSeenDate": "2026-01-15"
+  },
+  {
+    "term": "Embedded Finance",
+    "definition": "The integration of banking, payment, or lending functionality directly inside non-financial software workflows.",
+    "sector": "fintech",
+    "firstSeenDate": "2026-01-10"
+  },
+  {
+    "term": "Virtual Power Plant",
+    "definition": "A cloud-coordinated network of decentralized power devices like industrial batteries and solar arrays operating as a single supplier.",
+    "sector": "climate_energy",
+    "firstSeenDate": "2026-02-01"
+  },
+  {
+    "term": "Deterministic Sandbox",
+    "definition": "An isolated software execution environment that produces identically verifiable execution logs for compliance audits.",
+    "sector": "ai_software",
+    "firstSeenDate": "2026-03-12"
+  },
+  {
+    "term": "SEPA Instant",
+    "definition": "Pan-European electronic credit transfer scheme executing euro transactions within ten seconds around the clock.",
+    "sector": "fintech",
+    "firstSeenDate": "2026-01-05"
+  },
+  {
+    "term": "Vertical SaaS",
+    "definition": "Cloud software tailored specifically to the end-to-end workflows of a single specific industry vertical.",
+    "sector": "ai_software",
+    "firstSeenDate": "2026-01-18"
+  },
+  {
+    "term": "Capacity Market",
+    "definition": "An electrical grid mechanism that pays generation and storage operators retainer fees to ensure reserve supply during grid peaks.",
+    "sector": "climate_energy",
+    "firstSeenDate": "2026-02-20"
+  },
+  {
+    "term": "CSRD",
+    "definition": "Corporate Sustainability Reporting Directive: European Union legislation mandating strict ESG disclosure audits.",
+    "sector": "society_gov",
+    "firstSeenDate": "2026-01-22"
+  }
+]

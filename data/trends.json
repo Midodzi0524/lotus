@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "agentic-commerce",
+    "name": "Agentic Commerce Rails",
+    "description": "Protocols and dynamic settlement tokens designed for autonomous AI agents purchasing goods directly from APIs.",
+    "sector": "fintech",
+    "firstSeen": "2026-05-10",
+    "mentionsCount": 24,
+    "trajectory": "surging",
+    "whyItMatters": "Could disrupt card interchange fees if automated buyer agents settle transactions through micro-clearing rails.",
+    "relatedCompanies": ["Atlar", "Numa"]
+  },
+  {
+    "slug": "industrial-thermal-batteries",
+    "name": "Solid-Carbon Thermal Storage",
+    "description": "Ultra-high-temperature thermal storage batteries replacing fossil fossil gas for heavy chemical, glass, and metal processing.",
+    "sector": "climate_energy",
+    "firstSeen": "2026-03-14",
+    "mentionsCount": 18,
+    "trajectory": "rising",
+    "whyItMatters": "Unlocks industrial manufacturing decarbonization without waiting on high-voltage grid upgrades.",
+    "relatedCompanies": ["Antora Energy", "GridBeyond"]
+  },
+  {
+    "slug": "deterministic-ai-sandboxes",
+    "name": "Verifiable AI Engineering Sandboxes",
+    "description": "Deterministic containment layers and audit trails for enterprise code generation tools.",
+    "sector": "ai_software",
+    "firstSeen": "2026-06-02",
+    "mentionsCount": 31,
+    "trajectory": "surging",
+    "whyItMatters": "Essential regulatory requirement for banks deploying autonomous software agents in production systems.",
+    "relatedCompanies": ["Cognition", "Braintrust"]
+  },
+  {
+    "slug": "rent-loyalty-credit",
+    "name": "Rental Cashflow Underwriting",
+    "description": "Using recurring residential lease payments as loyalty reward tokens and prime mortgage qualification signals.",
+    "sector": "fintech",
+    "firstSeen": "2026-02-18",
+    "mentionsCount": 16,
+    "trajectory": "steady",
+    "whyItMatters": "Transforms consumer rent outlays into high-intent retail mortgage pipelines for banking partners.",
+    "relatedCompanies": ["Bilt Rewards"]
+  }
+]

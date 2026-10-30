@@ -1,0 +1,41 @@
+export const STYLE_GUIDELINES = {
+  maxHeadlineWords: 12,
+  maxTeaserWords: 20,
+  maxWhatItIsWords: 25,
+  maxWhyItMattersWords: 30,
+  maxBankAngleWords: 25,
+  maxTodayInOneSentenceWords: 25,
+  maxSpotlightPitchSentences: 2,
+
+  browseModeTargetWordCount: { min: 500, max: 700 },
+  readModeTargetWordCount: { min: 2000, max: 2500 },
+
+  bannedHypeWords: [
+    'game-changer',
+    'game changer',
+    'revolutionary',
+    'unprecedented',
+    'disruptive',
+    'groundbreaking',
+    'supercharge',
+    'rockstar',
+    'ninja',
+    'unicorn',
+    'skyrocket',
+    '10x',
+    'paradigm shift',
+    'silver bullet',
+    'magic bullet',
+    'next-gen',
+    'state-of-the-art',
+    'cutting-edge',
+    'world-class',
+    'killer app',
+    'jaw-dropping',
+  ],
+
+  confidenceThresholds: {
+    minimumFactsSourced: 0.8,
+    requiredSourceLinks: 1,
+  },
+};

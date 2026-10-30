@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-10-25",
+    "number": 104,
+    "status": "published",
+    "isDemo": true,
+    "todayInOneSentence": "European agentic commerce frameworks accelerate while embedded debt intelligence and localized grid storage attract significant fresh venture capital.",
+    "thumbnail": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=400&q=80",
+    "companiesCount": 28,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$284M"
+  },
+  {
+    "date": "2026-10-24",
+    "number": 103,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Agentic identity verification standards crystallize in Europe as decentralized climate insurance syndicates deploy parametric drought payouts.",
+    "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=400&q=80",
+    "companiesCount": 26,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$192M"
+  },
+  {
+    "date": "2026-10-23",
+    "number": 102,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Corporate real-time treasury orchestrators compress bank host-to-host file processing while multi-modal pathology AI draws institutional healthcare venture backing.",
+    "thumbnail": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=400&q=80",
+    "companiesCount": 25,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$210M"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "lastRunAt": "2026-10-25T05:04:12Z",
+  "status": "success",
+  "publishedEdition": "2026-10-25",
+  "sourcesPolled": 8,
+  "sourcesSuccessful": 8,
+  "totalItemsCollected": 142,
+  "deduplicatedItems": 88,
+  "selectedItems": 28,
+  "geminiCallsCount": 28,
+  "geminiTokensUsed": 48200,
+  "model": "gemini-2.5-flash",
+  "runDurationSeconds": 48,
+  "note": "Keep-alive verified. Edition published to GitHub Pages."
+}

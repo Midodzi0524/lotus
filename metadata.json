@@ -1,0 +1,6 @@
+{
+  "name": "Lotus",
+  "description": "Lotus — Automated 10-minute startup & innovation daily intelligence brief for banking and tech product leaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

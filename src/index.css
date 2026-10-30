@@ -1,0 +1,88 @@
+@import "tailwindcss";
+@theme{--font-serif:"Inter Tight",system-ui,sans-serif;--font-sans:"Inter Tight",system-ui,sans-serif;--font-mono:"JetBrains Mono",ui-monospace,monospace}
+
+@layer base {
+  :root {
+    --bg-page: #f5f0e7;
+    --surface: #fbf8f1;
+    --text-primary: #16231f;
+    --text-muted: #6b6a5f;
+    --border-sand: #ddd5c4;
+    --accent-cocoa: #e2522b;
+    --accent-soft: #efe6d6;
+    
+    --sector-fintech: #A0674B;
+    --sector-ai: #7C7A8C;
+    --sector-health: #B07A86;
+    --sector-climate: #7E8B6A;
+    --sector-consumer: #C29A5B;
+    --sector-mobility: #6F8794;
+    --sector-work: #9A8466;
+    --sector-society: #8A7B72;
+  }
+
+  .dark {
+    --bg-page: #0f1a17;
+    --surface: #17241f;
+    --text-primary: #ece6d8;
+    --text-muted: #a3b0a9;
+    --border-sand: #2a3a34;
+    --accent-cocoa: #f2916f;
+    --accent-soft: #1f2f29;
+  }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  h1, h2, h3, .font-serif-editorial {
+    font-family: 'Inter Tight', system-ui, sans-serif;
+  }
+}
+
+/* Editorial image filter */
+.warm-editorial-image {
+  filter: saturate(0.92) sepia(0.05);
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.warm-editorial-image:hover {
+  filter: saturate(1) sepia(0);
+}
+
+/* Details summary remove marker */
+summary::-webkit-details-marker {
+  display: none;
+}
+summary {
+  list-style: none;
+}
+
+/* Subtle print styles */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  header, footer, .no-print {
+    display: none !important;
+  }
+}
+
+/* ---- Quayside motion layer ---- */
+main h1,main h2,main h3{font-weight:600;letter-spacing:-.025em}
+.rv{opacity:0;transform:translateY(26px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}.rv.in{opacity:1;transform:none}
+main article{transition:transform .25s,box-shadow .25s}main article:hover{transform:translateY(-3px);box-shadow:0 18px 40px -28px #3b2f1a88}
+.qdot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#2f8f5b;margin-right:6px;animation:qpulse 1.8s infinite}@keyframes qpulse{50%{box-shadow:0 0 0 6px #2f8f5b22;opacity:.6}}
+.qticker{overflow:hidden;white-space:nowrap;background:#16231f;color:#f5f0e7;border-radius:999px;padding:10px 0;margin:28px 0;font:500 .75rem 'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.04em}
+.qticker>div{display:inline-block;animation:qmq 38s linear infinite}.qticker span{margin-right:12px}.qticker b{color:#e2522b}@keyframes qmq{to{transform:translateX(-50%)}}
+.qmap{background:var(--surface);border:1px solid var(--border-sand);border-radius:18px;padding:20px;text-align:left;box-shadow:0 18px 40px -28px #3b2f1a66;margin:8px 0 0}
+.qmap svg{width:100%;height:auto;border-radius:12px;background:radial-gradient(var(--border-sand) 1px,transparent 1px) 0 0/16px 16px}
+.qlane{fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1.2;stroke-dasharray:3 4;animation:qdash 14s linear infinite}@keyframes qdash{to{stroke-dashoffset:-140}}
+.qping{fill:none;animation:qping 2.4s infinite;transform-box:fill-box;transform-origin:center}@keyframes qping{from{opacity:.9}to{transform:scale(4);opacity:0}}
+.qtoast{display:inline-block;margin:12px 0;background:#16231f;color:#f5f0e7;padding:6px 14px;border-radius:99px;font-size:.85rem;animation:qslide .5s both}@keyframes qslide{from{opacity:0;transform:translateY(8px)}}
+.qroll{display:inline-flex;font-variant-numeric:tabular-nums}.qcol{display:inline-block;height:1em;overflow:hidden;line-height:1}.qcol>span{display:flex;flex-direction:column;transition-property:transform;transition-timing-function:cubic-bezier(.2,.8,.1,1)}.qcol i{font-style:normal;height:1em}
+@media(prefers-reduced-motion:reduce){*,*:before{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}}

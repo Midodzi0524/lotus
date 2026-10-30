@@ -1,0 +1,29 @@
+name: Pipeline Watchdog
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # 07:00 UTC (2 hours after daily run)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  check-edition:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify Today Edition Exists
+        run: |
+          TODAY=$(date -u +'%Y-%m-%d')
+          if [ -f "data/editions/$TODAY.json" ]; then
+            echo "Today's edition ($TODAY.json) verified successfully."
+          else
+            echo "WARNING: Today's edition ($TODAY.json) is missing. Triggering fallback run..."
+            gh workflow run daily.yml
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

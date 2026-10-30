@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f-numa",
+    "company": "Numa",
+    "companySlug": "numa",
+    "round": "Series B",
+    "amount": "$32M",
+    "sector": "fintech",
+    "leadInvestors": ["Touring Capital", "Costanoa Ventures"],
+    "location": "Oakland, CA",
+    "date": "2026-10-24",
+    "sourceUrl": "https://techcrunch.com/?s=Numa+AI"
+  },
+  {
+    "id": "f-gridbeyond",
+    "company": "GridBeyond",
+    "companySlug": "gridbeyond",
+    "round": "Growth Equity",
+    "amount": "€52M",
+    "sector": "climate_energy",
+    "leadInvestors": ["Klima Energy Transition Fund", "Mirova"],
+    "location": "Dublin, Ireland",
+    "date": "2026-10-24",
+    "sourceUrl": "https://www.eu-startups.com/?s=GridBeyond"
+  },
+  {
+    "id": "f-aignostics",
+    "company": "Aignostics",
+    "companySlug": "aignostics",
+    "round": "Series B",
+    "amount": "$34M",
+    "sector": "health_bio",
+    "leadInvestors": ["Athos", "Mayo Clinic Ventures"],
+    "location": "Berlin, Germany",
+    "date": "2026-10-23",
+    "sourceUrl": "https://www.eu-startups.com/?s=Aignostics"
+  },
+  {
+    "id": "f-atlar",
+    "company": "Atlar",
+    "companySlug": "atlar",
+    "round": "Series A",
+    "amount": "€18M",
+    "sector": "fintech",
+    "leadInvestors": ["Index Ventures", "Creandum"],
+    "location": "Stockholm, Sweden",
+    "date": "2026-10-23",
+    "sourceUrl": "https://sifted.eu/search?q=Atlar"
+  },
+  {
+    "id": "f-cognition",
+    "company": "Cognition",
+    "companySlug": "cognition",
+    "round": "Series A Extension",
+    "amount": "$21M",
+    "sector": "ai_software",
+    "leadInvestors": ["Founders Fund"],
+    "location": "San Francisco, CA",
+    "date": "2026-10-22",
+    "sourceUrl": "https://techcrunch.com/?s=Cognition+Devin"
+  },
+  {
+    "id": "f-antora",
+    "company": "Antora Energy",
+    "companySlug": "antora-energy",
+    "round": "Series B Extension",
+    "amount": "$45M",
+    "sector": "climate_energy",
+    "leadInvestors": ["Decarbonization Partners"],
+    "location": "Sunnyvale, CA",
+    "date": "2026-10-22",
+    "sourceUrl": "https://techcrunch.com/?s=Antora+Energy"
+  },
+  {
+    "id": "f-rebellion",
+    "company": "Rebellion Photonics",
+    "companySlug": "rebellion-photonics",
+    "round": "Series A",
+    "amount": "$16M",
+    "sector": "mobility_industrial",
+    "leadInvestors": ["Energy Innovation Capital"],
+    "location": "Houston, TX",
+    "date": "2026-10-21",
+    "sourceUrl": "https://techcrunch.com/?s=Rebellion+Photonics"
+  },
+  {
+    "id": "f-policyme",
+    "company": "PolicyMe",
+    "companySlug": "policyme",
+    "round": "Seed",
+    "amount": "$6.5M",
+    "sector": "society_gov",
+    "leadInvestors": ["Diagram Ventures"],
+    "location": "Toronto, Canada",
+    "date": "2026-10-20",
+    "sourceUrl": "https://www.springwise.com/?s=PolicyMe"
+  }
+]

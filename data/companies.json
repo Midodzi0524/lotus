@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Numa",
+    "slug": "numa",
+    "sector": "fintech",
+    "description": "AI-powered customer communications and financial operations platform for automotive dealerships.",
+    "founded": "2021",
+    "location": "Oakland, California",
+    "website": "https://numa.com",
+    "totalFunding": "$48M",
+    "latestRound": "Series B ($32M)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Numa raises $32M Series B for autonomous automotive dealership financial operations",
+        "itemId": "top-1-numa"
+      }
+    ],
+    "fundingEvents": [
+      {
+        "id": "f-numa",
+        "company": "Numa",
+        "round": "Series B",
+        "amount": "$32M",
+        "sector": "fintech",
+        "date": "2026-10-24",
+        "sourceUrl": "https://techcrunch.com/?s=Numa"
+      }
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/?s=Numa"
+      }
+    ]
+  },
+  {
+    "name": "Cognition",
+    "slug": "cognition",
+    "sector": "ai_software",
+    "description": "Applied AI lab developing Devin and autonomous engineering agents with formal sandbox verification.",
+    "founded": "2023",
+    "location": "San Francisco, California",
+    "website": "https://cognition.ai",
+    "totalFunding": "$196M",
+    "latestRound": "Series A Extension ($21M)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Cognition introduces verifiable execution sandboxes for enterprise code generation agents",
+        "itemId": "top-2-cognition"
+      }
+    ],
+    "fundingEvents": [
+      {
+        "id": "f-cognition",
+        "company": "Cognition",
+        "round": "Series A Extension",
+        "amount": "$21M",
+        "sector": "ai_software",
+        "date": "2026-10-22",
+        "sourceUrl": "https://techcrunch.com/?s=Cognition"
+      }
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/?s=Cognition"
+      }
+    ]
+  },
+  {
+    "name": "Bilt Rewards",
+    "slug": "bilt-rewards",
+    "sector": "fintech",
+    "description": "Consumer rewards and payments platform enabling US tenants to earn loyalty points on rent fee-free.",
+    "founded": "2021",
+    "location": "New York, New York",
+    "website": "https://biltrewards.com",
+    "totalFunding": "$413M",
+    "latestRound": "Growth ($200M, $3.1B valuation)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Spotlight: Bilt Rewards turns residential rent into mortgage acquisition pipeline",
+        "itemId": "spotlight"
+      }
+    ],
+    "fundingEvents": [],
+    "sources": [
+      {
+        "name": "Crunchbase News",
+        "url": "https://news.crunchbase.com/?s=Bilt%20Rewards"
+      }
+    ]
+  },
+  {
+    "name": "GridBeyond",
+    "slug": "gridbeyond",
+    "sector": "climate_energy",
+    "description": "Intelligent energy platform managing distributed battery storage and industrial flexibility assets.",
+    "founded": "2010",
+    "location": "Dublin, Ireland",
+    "website": "https://gridbeyond.com",
+    "totalFunding": "€95M",
+    "latestRound": "Growth Equity (€52M)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "GridBeyond secures €52M equity facility to scale industrial virtual power plants",
+        "itemId": "top-3-gridbeyond"
+      }
+    ],
+    "fundingEvents": [
+      {
+        "id": "f-gridbeyond",
+        "company": "GridBeyond",
+        "round": "Growth Equity",
+        "amount": "€52M",
+        "sector": "climate_energy",
+        "date": "2026-10-24",
+        "sourceUrl": "https://www.eu-startups.com/?s=GridBeyond"
+      }
+    ],
+    "sources": [
+      {
+        "name": "EU-Startups",
+        "url": "https://www.eu-startups.com/?s=GridBeyond"
+      }
+    ]
+  },
+  {
+    "name": "Atlar",
+    "slug": "atlar",
+    "sector": "fintech",
+    "description": "Treasury automation platform connecting company ERPs with European clearing and banking rails via API.",
+    "founded": "2022",
+    "location": "Stockholm, Sweden",
+    "website": "https://atlar.com",
+    "totalFunding": "€25M",
+    "latestRound": "Series A (€18M)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Atlar launches automated SEPA Instant and Bacs treasury orchestrator for mid-market CFOs",
+        "itemId": "fintech-1-atlar"
+      }
+    ],
+    "fundingEvents": [
+      {
+        "id": "f-atlar",
+        "company": "Atlar",
+        "round": "Series A",
+        "amount": "€18M",
+        "sector": "fintech",
+        "date": "2026-10-23",
+        "sourceUrl": "https://sifted.eu/search?q=Atlar"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Sifted",
+        "url": "https://sifted.eu/search?q=Atlar"
+      }
+    ]
+  },
+  {
+    "name": "Aignostics",
+    "slug": "aignostics",
+    "sector": "health_bio",
+    "description": "Multimodal precision pathology platform decoding tumor microenvironments for pharmaceutical trials.",
+    "founded": "2020",
+    "location": "Berlin, Germany",
+    "website": "https://aignostics.com",
+    "totalFunding": "$50M",
+    "latestRound": "Series B ($34M)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Aignostics closes $34M Series B for multimodal precision pathology agent models",
+        "itemId": "health-2-charite"
+      }
+    ],
+    "fundingEvents": [
+      {
+        "id": "f-aignostics",
+        "company": "Aignostics",
+        "round": "Series B",
+        "amount": "$34M",
+        "sector": "health_bio",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.eu-startups.com/?s=Aignostics"
+      }
+    ],
+    "sources": [
+      {
+        "name": "EU-Startups",
+        "url": "https://www.eu-startups.com/?s=Aignostics"
+      }
+    ]
+  },
+  {
+    "name": "Zeepay",
+    "slug": "zeepay",
+    "sector": "fintech",
+    "description": "Ghanaian cross-border mobile financial services operator terminating international remittances directly into mobile wallets.",
+    "founded": "2014",
+    "location": "Accra, Ghana",
+    "website": "https://myzeepay.com",
+    "totalFunding": "$35M",
+    "latestRound": "Debt & Equity ($18M)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Zeepay expands mobile remittance corridors across ten African recipient markets",
+        "itemId": "ghana-1-zeepay"
+      }
+    ],
+    "fundingEvents": [
+      {
+        "id": "f-zeepay",
+        "company": "Zeepay",
+        "round": "Debt & Equity",
+        "amount": "$18M",
+        "sector": "fintech",
+        "date": "2026-10-24",
+        "sourceUrl": "https://techcabal.com/?s=Zeepay"
+      }
+    ],
+    "sources": [
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/?s=Zeepay"
+      }
+    ]
+  },
+  {
+    "name": "Hubtel",
+    "slug": "hubtel",
+    "sector": "fintech",
+    "description": "Unified commerce messaging and merchant acquiring aggregator operating on Ghana's universal GhQR payment switch.",
+    "founded": "2005",
+    "location": "Accra, Ghana",
+    "website": "https://hubtel.com",
+    "totalFunding": "Profitable / Self-funded",
+    "latestRound": "Growth Stage",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Hubtel processes 450M merchant transactions via unified GhQR payment rails",
+        "itemId": "ghana-2-hubtel"
+      }
+    ],
+    "fundingEvents": [],
+    "sources": [
+      {
+        "name": "Techfocus24",
+        "url": "https://techfocus24.com/?s=Hubtel"
+      }
+    ]
+  },
+  {
+    "name": "Farmerline",
+    "slug": "farmerline",
+    "sector": "climate_energy",
+    "description": "Digital agritech and climate telemetry platform offering input credit, weather forecasts, and market mapping to smallholders.",
+    "founded": "2013",
+    "location": "Kumasi, Ghana",
+    "website": "https://farmerline.co",
+    "totalFunding": "$14.4M",
+    "latestRound": "Pre-Series A ($14.4M)",
+    "mentions": [
+      {
+        "editionDate": "2026-10-25",
+        "headline": "Farmerline delivers climate risk modeling to 50,000 Ghanaian cocoa growers",
+        "itemId": "ghana-3-farmerline"
+      }
+    ],
+    "fundingEvents": [
+      {
+        "id": "f-farmerline",
+        "company": "Farmerline",
+        "round": "Pre-Series A",
+        "amount": "$14.4M",
+        "sector": "climate_energy",
+        "date": "2026-10-23",
+        "sourceUrl": "https://disrupt-africa.com/?s=Farmerline"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Disrupt Africa",
+        "url": "https://disrupt-africa.com/?s=Farmerline"
+      }
+    ]
+  }
+]

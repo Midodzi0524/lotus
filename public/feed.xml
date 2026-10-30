@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lotus — Daily Intelligence Brief</title>
+    <link>https://daily-brief.github.io/</link>
+    <description>Automated 10-minute startup and innovation intelligence brief for banking and tech product leaders.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2026 05:00:00 GMT</lastBuildDate>
+    <atom:link href="https://daily-brief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lotus Edition #104: European agentic commerce frameworks accelerate while embedded debt intelligence and localized grid storage attract fresh venture capital</title>
+      <link>https://daily-brief.github.io/#edition-2026-10-25</link>
+      <guid>https://daily-brief.github.io/#edition-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 05:00:00 GMT</pubDate>
+      <description>European agentic commerce frameworks accelerate while embedded debt intelligence and localized grid storage attract significant fresh venture capital.</description>
+    </item>
+  </channel>
+</rss>
