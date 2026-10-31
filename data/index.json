@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-31",
+    "number": 105,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Global central banks advance tokenization frameworks while fintechs secure fresh capital and major AI providers establish new web-scraping standards.",
+    "thumbnail": "https://finovate.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-7.54.03-AM.png",
+    "companiesCount": 22,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$136M"
+  },
+  {
     "date": "2026-10-30",
     "number": 104,
     "status": "published",
