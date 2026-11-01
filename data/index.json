@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-01",
+    "number": 106,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Financial institutions confront expanding AI fraud threats, test agentic payment integrations, and navigate regulatory actions alongside major central bank and venture developments.",
+    "thumbnail": "https://finovate.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-7.54.03-AM.png",
+    "companiesCount": 29,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$3.2B"
+  },
+  {
     "date": "2026-10-31",
     "number": 105,
     "status": "published",
