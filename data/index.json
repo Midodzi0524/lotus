@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-03",
+    "number": 107,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Global venture funding reached $59 billion in October, while financial institutions continue to integrate AI agents and stablecoin infrastructure into cross-border payment systems.",
+    "thumbnail": "https://news.crunchbase.com/wp-content/uploads/sep-oct.jpg",
+    "companiesCount": 19,
+    "sectorsCount": 7,
+    "fundingTotalUsd": null
+  },
+  {
     "date": "2026-11-01",
     "number": 106,
     "status": "published",
