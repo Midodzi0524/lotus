@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-04",
+    "number": 108,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Global fintech activity centers on bank-fintech partnerships, cross-border payment infrastructure, and regulatory updates across Europe, Africa, and New Zealand.",
+    "thumbnail": "",
+    "companiesCount": 18,
+    "sectorsCount": 8,
+    "fundingTotalUsd": null
+  },
+  {
     "date": "2026-11-03",
     "number": 107,
     "status": "published",
