@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-07",
+    "number": 111,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Financial institutions are aggressively integrating agentic AI and tokenization, while global fintechs secure major funding and expand cross-border payment infrastructure.",
+    "thumbnail": "",
+    "companiesCount": 16,
+    "sectorsCount": 7,
+    "fundingTotalUsd": "$2.1B"
+  },
+  {
     "date": "2026-11-06",
     "number": 110,
     "status": "published",

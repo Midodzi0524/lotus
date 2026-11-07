@@ -1,64 +1,64 @@
 {
-  "lastRunAt": "2026-11-06T13:18:48.299Z",
+  "lastRunAt": "2026-11-07T11:51:39.439Z",
   "status": "success",
-  "publishedEdition": "2026-11-06",
+  "publishedEdition": "2026-11-07",
   "sources": [
     {
       "sourceKey": "ycombinator",
       "name": "Y Combinator",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "producthunt",
       "name": "Product Hunt",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "techcrunch",
       "name": "TechCrunch",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "crunchbase",
       "name": "Crunchbase News",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "trendhunter",
       "name": "Trend Hunter",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "eustartups",
       "name": "EU-Startups",
       "status": "error",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
-      "notes": "HTTP 403 Forbidden"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z",
+      "notes": "This operation was aborted"
     },
     {
       "sourceKey": "springwise",
       "name": "Springwise",
       "status": "partial",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "explodingtopics",
       "name": "Exploding Topics",
       "status": "error",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z",
       "notes": "HTTP 404 Not Found"
     },
     {
@@ -66,21 +66,21 @@
       "name": "Finextra",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "sifted",
       "name": "Sifted",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "fintechfutures",
       "name": "FinTech Futures",
       "status": "error",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z",
       "notes": "HTTP 403 Forbidden"
     },
     {
@@ -88,37 +88,36 @@
       "name": "TechCabal",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "disruptafrica",
       "name": "Disrupt Africa",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "techpoint",
       "name": "Techpoint Africa",
       "status": "error",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z",
       "notes": "HTTP 403 Forbidden"
     },
     {
       "sourceKey": "techfocus24",
       "name": "Techfocus24",
-      "status": "error",
-      "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
-      "notes": "HTTP 415 Unsupported Media Type"
+      "status": "ok",
+      "itemsCount": 10,
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "ghanaweb_business",
       "name": "GhanaWeb Business & Tech",
       "status": "error",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z",
       "notes": "HTTP 404 Not Found"
     },
     {
@@ -126,99 +125,98 @@
       "name": "Banking Dive",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "paymentsdive",
       "name": "Payments Dive",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "americanbanker",
       "name": "American Banker",
       "status": "partial",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "financialbrand",
       "name": "The Financial Brand",
       "status": "partial",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "finovate",
       "name": "Finovate",
       "status": "ok",
       "itemsCount": 12,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "fintechtimes",
       "name": "The Fintech Times",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "pymnts",
       "name": "PYMNTS",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "tearsheet",
       "name": "Tearsheet",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "techcrunch_fintech",
       "name": "TechCrunch Fintech",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "nfcw",
       "name": "NFCW",
-      "status": "error",
-      "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
-      "notes": "HTTP 415 Unsupported Media Type"
+      "status": "ok",
+      "itemsCount": 10,
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "ledgerinsights",
       "name": "Ledger Insights",
       "status": "ok",
       "itemsCount": 1,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "paymentsafrika",
       "name": "Payments Afrika",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "theverge",
       "name": "The Verge",
       "status": "ok",
       "itemsCount": 10,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "venturebeat",
       "name": "VentureBeat",
       "status": "error",
       "itemsCount": 0,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z",
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z",
       "notes": "HTTP 429 Too Many Requests"
     },
     {
@@ -226,56 +224,56 @@
       "name": "Ars Technica",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "wired",
       "name": "WIRED",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "restofworld",
       "name": "Rest of World",
       "status": "ok",
       "itemsCount": 12,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "fed_press",
       "name": "Federal Reserve Press Releases",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "boe_news",
       "name": "Bank of England News",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "ecb_press",
       "name": "European Central Bank Press",
       "status": "ok",
       "itemsCount": 15,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     },
     {
       "sourceKey": "fca_news",
       "name": "FCA News",
       "status": "ok",
       "itemsCount": 20,
-      "lastFetchedAt": "2026-11-06T12:48:58.106Z"
+      "lastFetchedAt": "2026-11-07T11:37:26.012Z"
     }
   ],
   "sourcesPolled": 37,
-  "sourcesSuccessful": 26,
-  "totalItemsCollected": 380,
-  "deduplicatedItems": 380,
-  "selectedItems": 18,
-  "runDurationSeconds": 1793,
+  "sourcesSuccessful": 28,
+  "totalItemsCollected": 400,
+  "deduplicatedItems": 400,
+  "selectedItems": 13,
+  "runDurationSeconds": 861,
   "note": "Published from live sources."
 }
