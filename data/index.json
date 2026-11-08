@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-08",
+    "number": 112,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Global institutions and fintechs accelerate agentic AI deployments and crypto-card rails, while regulators scrutinize AI safety and stablecoin backing.",
+    "thumbnail": "",
+    "companiesCount": 25,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$3.6B"
+  },
+  {
     "date": "2026-11-07",
     "number": 111,
     "status": "published",
