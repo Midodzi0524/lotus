@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-09",
+    "number": 113,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Regulators approve Coinbase's trust bank charter as financial institutions expand digital agent capabilities and retail cash deposit integrations.",
+    "thumbnail": "",
+    "companiesCount": 22,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$3.8B"
+  },
+  {
     "date": "2026-11-08",
     "number": 112,
     "status": "published",
