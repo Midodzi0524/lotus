@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-10",
+    "number": 114,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Hugging Face warns cyberattacks may reduce open-source AI access, while banks and fintechs pursue AI agents, stablecoins, and digital asset deals.",
+    "thumbnail": "",
+    "companiesCount": 11,
+    "sectorsCount": 8,
+    "fundingTotalUsd": null
+  },
+  {
     "date": "2026-11-09",
     "number": 113,
     "status": "published",
