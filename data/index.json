@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-11",
+    "number": 115,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Global financial institutions and fintechs push forward with agentic AI and expanded credit facilities while Western Union terminates its $500M acquisition.",
+    "thumbnail": "https://news.crunchbase.com/wp-content/uploads/Payments.jpg",
+    "companiesCount": 28,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$62M"
+  },
+  {
     "date": "2026-11-10",
     "number": 114,
     "status": "published",
