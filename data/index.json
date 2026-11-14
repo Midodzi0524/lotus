@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-14",
+    "number": 118,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "OpenAI introduced ChatGPT Wallet for agentic checkout while major funding flowed to AI infrastructure and regional SME digital banking platforms.",
+    "thumbnail": "",
+    "companiesCount": 27,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$3.1B"
+  },
+  {
     "date": "2026-11-13",
     "number": 117,
     "status": "published",
