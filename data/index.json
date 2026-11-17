@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-17",
+    "number": 121,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Financial institutions are increasingly integrating agentic AI for payments and operations while startups secure massive funding for robotics and biotech.",
+    "thumbnail": "https://finovate.com/wp-content/uploads/2026/11/pexels-ian-panelo-6911182.jpg",
+    "companiesCount": 18,
+    "sectorsCount": 8,
+    "fundingTotalUsd": "$630M"
+  },
+  {
     "date": "2026-11-16",
     "number": 120,
     "status": "published",
