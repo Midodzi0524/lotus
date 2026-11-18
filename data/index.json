@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-18",
+    "number": 122,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Financial institutions are accelerating AI agent integration while global regulators and markets navigate shifting leadership and economic pressures.",
+    "thumbnail": "",
+    "companiesCount": 15,
+    "sectorsCount": 4,
+    "fundingTotalUsd": "$556M"
+  },
+  {
     "date": "2026-11-17",
     "number": 121,
     "status": "published",
