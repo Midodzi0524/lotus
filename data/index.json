@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-21",
+    "number": 125,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Financial institutions are aggressively integrating agentic AI and tokenized assets while regulators increase scrutiny on third-party risks and operational resilience.",
+    "thumbnail": "",
+    "companiesCount": 19,
+    "sectorsCount": 7,
+    "fundingTotalUsd": "$920M"
+  },
+  {
     "date": "2026-11-20",
     "number": 124,
     "status": "published",
