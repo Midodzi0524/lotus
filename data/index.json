@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-23",
+    "number": 127,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Jensen Huang returns as Nvidia CEO while financial markets navigate significant fintech funding rounds and regulatory shifts.",
+    "thumbnail": "",
+    "companiesCount": 5,
+    "sectorsCount": 2,
+    "fundingTotalUsd": "$280M"
+  },
+  {
     "date": "2026-11-22",
     "number": 126,
     "status": "published",
