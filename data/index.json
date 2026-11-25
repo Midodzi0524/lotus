@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-25",
+    "number": 129,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Banks and fintechs advanced digital trade, tokenized funds, and AI payments while regulators updated securitisation and cyber rules.",
+    "thumbnail": "https://finovate.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-7.44.56-AM.png",
+    "companiesCount": 27,
+    "sectorsCount": 7,
+    "fundingTotalUsd": "$6.7B"
+  },
+  {
     "date": "2026-11-24",
     "number": 128,
     "status": "published",
