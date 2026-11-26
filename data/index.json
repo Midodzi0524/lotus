@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-26",
+    "number": 130,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "Financial institutions are aggressively integrating AI and tokenized assets while regulators tighten oversight on crypto, BNPL, and AI-driven cyber threats.",
+    "thumbnail": "https://finovate.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-7.44.56-AM.png",
+    "companiesCount": 16,
+    "sectorsCount": 4,
+    "fundingTotalUsd": "$12M"
+  },
+  {
     "date": "2026-11-25",
     "number": 129,
     "status": "published",
