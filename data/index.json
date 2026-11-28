@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-28",
+    "number": 132,
+    "status": "published",
+    "isDemo": false,
+    "todayInOneSentence": "LayerTwo Labs launched eCash mainnet while HSBC UK expanded share and ETF investing and banks tested AI agent payments.",
+    "thumbnail": "",
+    "companiesCount": 18,
+    "sectorsCount": 7,
+    "fundingTotalUsd": "$350M"
+  },
+  {
     "date": "2026-11-27",
     "number": 131,
     "status": "published",
